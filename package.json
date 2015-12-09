@@ -1,0 +1,19 @@
+{
+  "name": "autoprefixer-demo",
+  "version": "1.0.0",
+  "description": "",
+  "hatTip": "http://callmenick.com/_development/flexbox-examples/index2.html",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^6.1.2",
+    "gulp-postcss": "^6.0.1",
+    "gulp": "^3.9.0",
+    "postcss": "^5.0.12",
+    "postcss-import": "^7.1.3",
+    "postcss-nested": "^1.0.0"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
