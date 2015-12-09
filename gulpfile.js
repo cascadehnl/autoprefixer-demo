@@ -7,7 +7,7 @@ var autoprefixer = require('autoprefixer')
 gulp.task('css', function() {
   var processors = [autoprefixer]
 
-  return gulp.src('./src/*.css')
+  return gulp.src('./src/style.css')
     .pipe(postcss(processors))
     .pipe(gulp.dest('./css/'))
 });
