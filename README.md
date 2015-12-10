@@ -12,6 +12,7 @@ Quick demo for CascadeHNL to demonstrate the basics of PostCSS and how it works 
 
 ### Flavor
 * https://twitter.com/PostCSS/status/594242598321201153
+* https://twitter.com/autoprefixer/status/493072260123852800
 * https://twitter.com/autoprefixer/status/413085919420219392
 * https://twitter.com/PostCSS/status/641702710304182272
 * https://twitter.com/mdo/status/591364406816079873
