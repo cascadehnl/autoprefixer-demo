@@ -8,10 +8,12 @@ html {
 .demopage {
   display: flex;
   flex-direction: column;
+  opacity: 0.5;
 
   &__body {
     display: flex;
     flex-direction: column;
+
   }
 
   &__footer, &__header {
